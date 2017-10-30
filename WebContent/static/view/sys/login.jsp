@@ -10,7 +10,7 @@
 <style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>优云运维应用平台系统</title>
+	<title>互正软件运维应用平台系统</title>
 	<meta name="keywords" content=" ">
 	<meta name="description" content="">
 	<link rel="shortcut icon" href="">
@@ -40,7 +40,7 @@
 			</div>
 	<div class="login-panel">
         <div class=""><font color="red" size="4"><b>${company}</b></font></div>
-		<div class="title">账号密码登录</div>
+		<div class="title">统一用户单点登录</div>
 		<form action="${ctx}/doLogin" method="post" role="form" id="form1" onsubmit="return formcheck();" class="we7-form">
 			<div class="input-group-vertical">
 				<input name="userName" type="text" class="form-control " placeholder="请输入用户名登录">
@@ -74,7 +74,7 @@
                             ${company}
 							<br>
 ADDRESS: ${companyAddress}					</div>
-		<div class="copyright"><a href="">we.e-rabits.com</a>    <a href="http://www.miibeian.gov.cn/"></a></div>
+		<div class="copyright"><a href="">上海互正教育科技有限公司</a>    <a href="http://www.miibeian.gov.cn/"></a></div>
 	</div>
 			
 

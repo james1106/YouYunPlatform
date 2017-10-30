@@ -15,7 +15,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>优云运维应用平台系统</title>
+	<title>互正软件运维应用平台系统</title>
 	<meta name="keywords" content="">
 	<meta name="description" content="">
 	<link rel="shortcut icon" href="">
@@ -103,7 +103,7 @@
 		<div class="friend-link">
 							<br>
 					</div>
-		<div class="copyright"><a href=""></a>    <a href="http://www.miibeian.gov.cn/"></a></div>
+		<div class="copyright"><a href="">上海互正教育科技有限公司</a>    <a href="http://www.miibeian.gov.cn/"></a></div>
 	</div>
 			
 

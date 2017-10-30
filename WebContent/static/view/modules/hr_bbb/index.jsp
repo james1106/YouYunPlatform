@@ -15,7 +15,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>优云运维应用平台系统</title>
+	<title>互正软件运维应用平台系统</title>
 	<meta name="keywords" content="">
 	<meta name="description" content="">
 	<link rel="shortcut icon" href="">
@@ -104,7 +104,7 @@
 		<div class="friend-link">
 							<br>
 ADDRESS: 泰州软件园5号楼305室   TEL:13852611687					</div>
-		<div class="copyright"><a href="http://we.e-rabits.com/">we.e-rabits.com</a>    <a href="http://www.miibeian.gov.cn/">苏ICP备15002491号</a></div>
+		<div class="copyright"><a href="http://we.e-rabits.com/">上海互正教育科技有限公司</a>    <a href="http://www.miibeian.gov.cn/">苏ICP备15002491号</a></div>
 	</div>
 			
 
